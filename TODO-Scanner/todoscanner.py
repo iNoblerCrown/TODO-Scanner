@@ -51,5 +51,3 @@ def lastTouch(string): #! Under construction
         for _ in range(len(l[0][x][0][1])):
             a.append([l[0][x][0][1][_], l[0][x][0][2][_]])
         b.append([file, a])
-
-#print(main([".txt"], "C:/Users/aliih/Downloads/filescanner", "TODO"))
